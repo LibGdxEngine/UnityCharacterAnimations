@@ -1,0 +1,1207 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 22000.978; Version 2009; 64bit' Language: 'en' Physical Memory: 32688 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/A.Ramadan.ext/AnimationsDemo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55409
+Successfully changed project path to: C:/Users/A.Ramadan.ext/AnimationsDemo
+C:/Users/A.Ramadan.ext/AnimationsDemo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 27.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/A.Ramadan.ext/AnimationsDemo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001986 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000721 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1409 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.2 MB.
+System memory in use after: 67.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1853.
+Total: 2.276100 ms (FindLiveObjects: 0.285700 ms CreateObjectMapping: 0.112500 ms MarkObjects: 1.801300 ms  DeleteObjects: 0.074600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Fighter/PlayerActions.inputactions
+  artifactKey: Guid(fab06d9539251214da76a64a29c01198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/PlayerActions.inputactions using Guid(fab06d9539251214da76a64a29c01198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af61c84889a8b54af757191cf187e1db') in 0.037607 seconds
+  Import took 0.039762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.119457 seconds.
+  path: Assets/Fighter/PlayerController.cs
+  artifactKey: Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/PlayerController.cs using Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51fc337872fbb889e60660f4cee749a7') in 0.034281 seconds
+  Import took 0.036891 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.413 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.4 MB.
+System memory in use after: 67.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1857.
+Total: 2.089200 ms (FindLiveObjects: 0.242600 ms CreateObjectMapping: 0.062400 ms MarkObjects: 1.724500 ms  DeleteObjects: 0.058500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 382.975649 seconds.
+  path: Assets/Fighter/FighterTCP.controller
+  artifactKey: Guid(827649171ba70a242b175dd41fa0d131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterTCP.controller using Guid(827649171ba70a242b175dd41fa0d131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d68bed126b144028f65a9dd80740099') in 0.031918 seconds
+  Import took 0.034564 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000737 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.771 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.4 MB.
+System memory in use after: 67.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1860.
+Total: 1.844700 ms (FindLiveObjects: 0.238200 ms CreateObjectMapping: 0.063600 ms MarkObjects: 1.485900 ms  DeleteObjects: 0.055100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000693 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.4 MB.
+System memory in use after: 67.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1863.
+Total: 1.831800 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.055300 ms MarkObjects: 1.491300 ms  DeleteObjects: 0.050900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.076974 seconds.
+  path: Assets/Fighter/PlayerController.cs
+  artifactKey: Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/PlayerController.cs using Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73bf9eff7975b4b56cc6e2d2f0ef23df') in 0.004163 seconds
+  Import took 0.006113 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000700 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.785 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.4 MB.
+System memory in use after: 67.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1866.
+Total: 1.931700 ms (FindLiveObjects: 0.154100 ms CreateObjectMapping: 0.052300 ms MarkObjects: 1.670900 ms  DeleteObjects: 0.052800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000823 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.4 MB.
+System memory in use after: 67.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1869.
+Total: 1.784700 ms (FindLiveObjects: 0.161600 ms CreateObjectMapping: 0.045000 ms MarkObjects: 1.517300 ms  DeleteObjects: 0.059700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 689.150407 seconds.
+  path: Assets/Fighter/PlayerController.cs
+  artifactKey: Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/PlayerController.cs using Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ff65c1b6ad64dbde9331c358b4ab27') in 0.007085 seconds
+  Import took 0.009928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001261 seconds.
+  path: Assets/Fighter/PlayerController.cs
+  artifactKey: Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/PlayerController.cs using Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26ff65c1b6ad64dbde9331c358b4ab27') in 0.002871 seconds
+  Import took 0.005224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.320650 seconds.
+  path: Assets/Fighter/PlayerController.cs
+  artifactKey: Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/PlayerController.cs using Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab75cc1ab2ab974ee4b41c230fe0f5e') in 0.003627 seconds
+  Import took 0.006818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.482186 seconds.
+  path: Assets/Fighter/PlayerController.cs
+  artifactKey: Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/PlayerController.cs using Guid(5ed5da0ed8ccf3549b7a75445cd56e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df20fa9b046c77ed1c77d5eb186fcfe7') in 0.003949 seconds
+  Import took 0.007261 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000856 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1872.
+Total: 3.044800 ms (FindLiveObjects: 0.195200 ms CreateObjectMapping: 0.047400 ms MarkObjects: 2.738000 ms  DeleteObjects: 0.062600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.622305 seconds.
+  path: Assets/Fighter/FighterTCP.controller
+  artifactKey: Guid(827649171ba70a242b175dd41fa0d131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterTCP.controller using Guid(827649171ba70a242b175dd41fa0d131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a75a652d5477891f25b6a0354915c5') in 0.014569 seconds
+  Import took 0.016867 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001316 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1875.
+Total: 1.820100 ms (FindLiveObjects: 0.145900 ms CreateObjectMapping: 0.042400 ms MarkObjects: 1.577300 ms  DeleteObjects: 0.053200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 807.456660 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb1b590407b586025a0f34ef1713cf2') in 0.045268 seconds
+  Import took 0.047711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.627754 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef6eee503b38327a2ef9f35c96ec0de2') in 0.010281 seconds
+  Import took 0.012720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001247 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef6eee503b38327a2ef9f35c96ec0de2') in 0.007344 seconds
+  Import took 0.009721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.775366 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12333485171129671472f110165a4b4') in 0.011009 seconds
+  Import took 0.013480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12333485171129671472f110165a4b4') in 0.007751 seconds
+  Import took 0.010270 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000892 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.751 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1878.
+Total: 1.953100 ms (FindLiveObjects: 0.163400 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.659200 ms  DeleteObjects: 0.093600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.302795 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebafd14b7b545ddca2f56f53e8c5f37a') in 0.036584 seconds
+  Import took 0.038986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.275273 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a4f8b05d939adbb233468f1b6bee2b4') in 0.010464 seconds
+  Import took 0.012927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000844 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a4f8b05d939adbb233468f1b6bee2b4') in 0.005772 seconds
+  Import took 0.008315 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000797 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1881.
+Total: 1.986400 ms (FindLiveObjects: 0.308000 ms CreateObjectMapping: 0.080200 ms MarkObjects: 1.543800 ms  DeleteObjects: 0.052200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.747 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1884.
+Total: 1.924400 ms (FindLiveObjects: 0.214500 ms CreateObjectMapping: 0.052600 ms MarkObjects: 1.600700 ms  DeleteObjects: 0.055000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.751 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1887.
+Total: 2.060600 ms (FindLiveObjects: 0.219000 ms CreateObjectMapping: 0.059700 ms MarkObjects: 1.720900 ms  DeleteObjects: 0.059700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 460.594695 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91172ad97ee0b282e6b103fcfc5055f') in 0.040861 seconds
+  Import took 0.043224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.292762 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec64da4711407ef85ab886f912fedd99') in 0.012618 seconds
+  Import took 0.015041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.964924 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86682f6825cb8f04217461429d583db') in 0.011092 seconds
+  Import took 0.013601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.136535 seconds.
+  path: Assets/Fighter/FighterTCP.controller
+  artifactKey: Guid(827649171ba70a242b175dd41fa0d131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterTCP.controller using Guid(827649171ba70a242b175dd41fa0d131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72034f924436268343021e607e7dcb6c') in 0.006691 seconds
+  Import took 0.009720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003845 seconds.
+  path: Assets/Fighter/FighterTCP.controller
+  artifactKey: Guid(827649171ba70a242b175dd41fa0d131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterTCP.controller using Guid(827649171ba70a242b175dd41fa0d131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72034f924436268343021e607e7dcb6c') in 0.006202 seconds
+  Import took 0.008784 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 2.502500 ms (FindLiveObjects: 0.215800 ms CreateObjectMapping: 0.082400 ms MarkObjects: 2.131100 ms  DeleteObjects: 0.071200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.187587 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1ac5f62b500faaac7ab6def6b9cb97') in 0.048379 seconds
+  Import took 0.051753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.835649 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f09330715c7d204980472dde01ce4d2') in 0.013887 seconds
+  Import took 0.017204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.268865 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06609f19f78589ef6421e1044079e0d8') in 0.015528 seconds
+  Import took 0.018937 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.775 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.5 MB.
+System memory in use after: 67.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1893.
+Total: 3.236500 ms (FindLiveObjects: 0.392700 ms CreateObjectMapping: 0.112900 ms MarkObjects: 2.635400 ms  DeleteObjects: 0.093400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.126314 seconds.
+  path: Assets/Fighter/FighterModel.fbx
+  artifactKey: Guid(d9652c6f16273ca42b1431566c7a9f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterModel.fbx using Guid(d9652c6f16273ca42b1431566c7a9f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b876ad8495a7162bf0e009320f540f57') in 0.152983 seconds
+  Import took 0.155490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.770704 seconds.
+  path: Assets/Fighter/FighterModel.fbx
+  artifactKey: Guid(d9652c6f16273ca42b1431566c7a9f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterModel.fbx using Guid(d9652c6f16273ca42b1431566c7a9f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b876ad8495a7162bf0e009320f540f57') in 0.042398 seconds
+  Import took 0.045589 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001114 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1940.
+Total: 1.895700 ms (FindLiveObjects: 0.171000 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.627000 ms  DeleteObjects: 0.049300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.478257 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e66e6a5ad9e3aadcea2fca5951282f') in 0.036947 seconds
+  Import took 0.039458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.271562 seconds.
+  path: Assets/Fighter/FighterModel.fbx
+  artifactKey: Guid(d9652c6f16273ca42b1431566c7a9f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterModel.fbx using Guid(d9652c6f16273ca42b1431566c7a9f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc0a666c4f32a17f958c840782bdada3') in 0.151318 seconds
+  Import took 0.154095 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.760 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1944.
+Total: 1.821800 ms (FindLiveObjects: 0.148300 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.581000 ms  DeleteObjects: 0.048200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.968031 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3e863ee9de9df1b6111023ad18e026') in 0.028216 seconds
+  Import took 0.030669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.032748 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '344d57de1c760b53eb22a8b470e817d9') in 0.010108 seconds
+  Import took 0.012724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000896 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '344d57de1c760b53eb22a8b470e817d9') in 0.007535 seconds
+  Import took 0.010468 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1947.
+Total: 2.134600 ms (FindLiveObjects: 0.248000 ms CreateObjectMapping: 0.050900 ms MarkObjects: 1.745400 ms  DeleteObjects: 0.089000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.750410 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8488b89bd9ec92fec3b7ca0d44e9886') in 0.027820 seconds
+  Import took 0.030404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001422 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8488b89bd9ec92fec3b7ca0d44e9886') in 0.006167 seconds
+  Import took 0.008657 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000715 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1950.
+Total: 2.071400 ms (FindLiveObjects: 0.279600 ms CreateObjectMapping: 0.051500 ms MarkObjects: 1.682700 ms  DeleteObjects: 0.055700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.969820 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e987385bbd196365054f171306c82b6b') in 0.031124 seconds
+  Import took 0.033618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.986245 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e987385bbd196365054f171306c82b6b') in 0.017181 seconds
+  Import took 0.019551 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1953.
+Total: 1.911000 ms (FindLiveObjects: 0.200800 ms CreateObjectMapping: 0.037100 ms MarkObjects: 1.623300 ms  DeleteObjects: 0.048700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.394954 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85e87fec8745ad0137703bff3478dafe') in 0.038673 seconds
+  Import took 0.041208 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1956.
+Total: 2.203700 ms (FindLiveObjects: 0.293800 ms CreateObjectMapping: 0.178500 ms MarkObjects: 1.679800 ms  DeleteObjects: 0.049500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.245483 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5735930e2ac3798dd3f8d5daf853cc') in 0.038977 seconds
+  Import took 0.041492 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.746 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1959.
+Total: 1.940200 ms (FindLiveObjects: 0.167200 ms CreateObjectMapping: 0.048700 ms MarkObjects: 1.671300 ms  DeleteObjects: 0.052100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.610476 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1ba42b5991f076492ef69c83d79fa0') in 0.024493 seconds
+  Import took 0.027032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.771673 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1ba42b5991f076492ef69c83d79fa0') in 0.025173 seconds
+  Import took 0.027754 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000869 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.1 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1962.
+Total: 1.972900 ms (FindLiveObjects: 0.182200 ms CreateObjectMapping: 0.053200 ms MarkObjects: 1.686700 ms  DeleteObjects: 0.049800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.398809 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb05149c257be5bcd3626d77967aba2d') in 0.035584 seconds
+  Import took 0.038107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.364705 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb05149c257be5bcd3626d77967aba2d') in 0.018047 seconds
+  Import took 0.020914 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000992 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.743 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1965.
+Total: 1.857100 ms (FindLiveObjects: 0.153200 ms CreateObjectMapping: 0.044200 ms MarkObjects: 1.602100 ms  DeleteObjects: 0.056600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.799985 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3dddc5d3a263cc432fe84ec0fd7ff3') in 0.032015 seconds
+  Import took 0.034667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074296 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3dddc5d3a263cc432fe84ec0fd7ff3') in 0.005506 seconds
+  Import took 0.008104 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000658 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1968.
+Total: 2.241000 ms (FindLiveObjects: 0.219200 ms CreateObjectMapping: 0.073000 ms MarkObjects: 1.892300 ms  DeleteObjects: 0.054800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000755 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.753 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1971.
+Total: 2.061500 ms (FindLiveObjects: 0.305100 ms CreateObjectMapping: 0.066200 ms MarkObjects: 1.636700 ms  DeleteObjects: 0.051900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 244.519567 seconds.
+  path: Assets/Fighter/FighterModel.fbx
+  artifactKey: Guid(d9652c6f16273ca42b1431566c7a9f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterModel.fbx using Guid(d9652c6f16273ca42b1431566c7a9f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8bf5dfd93d8913ed7b94e11108f04d5') in 0.113184 seconds
+  Import took 0.116388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.928988 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(af823815fa87d5a4e8c5a0d6267f7807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(af823815fa87d5a4e8c5a0d6267f7807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355f9c68f9375abffe5709e6c1fee71c') in 0.015948 seconds
+  Import took 0.018735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.591523 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f47b8a3c963dbec246677918f418c59') in 0.011167 seconds
+  Import took 0.014489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004051 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx
+  artifactKey: Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Standard Run.fbx using Guid(adfee3012d25095458cb5fdce20ee896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f47b8a3c963dbec246677918f418c59') in 0.006164 seconds
+  Import took 0.008760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.614344 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b37d92c72ebf798ddaccb300f1f2a8f4') in 0.012948 seconds
+  Import took 0.015385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002172 seconds.
+  path: Assets/Fighter/Dreyar By M.Aure@Walking.fbx
+  artifactKey: Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/Dreyar By M.Aure@Walking.fbx using Guid(50404569a55ec114895ab8380445d6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b37d92c72ebf798ddaccb300f1f2a8f4') in 0.005384 seconds
+  Import took 0.008075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.181400 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77cb38188cc26ed2ca3d5163d1e801fc') in 0.012575 seconds
+  Import took 0.015194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005689 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77cb38188cc26ed2ca3d5163d1e801fc') in 0.006042 seconds
+  Import took 0.008599 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001113 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1975.
+Total: 2.103200 ms (FindLiveObjects: 0.281400 ms CreateObjectMapping: 0.057000 ms MarkObjects: 1.652500 ms  DeleteObjects: 0.110000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.338245 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e998a4fed360c7338661e7a6a9005e9') in 0.037409 seconds
+  Import took 0.039902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.579199 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e998a4fed360c7338661e7a6a9005e9') in 0.018103 seconds
+  Import took 0.020614 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001359 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.796 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1978.
+Total: 1.867600 ms (FindLiveObjects: 0.201700 ms CreateObjectMapping: 0.048800 ms MarkObjects: 1.567900 ms  DeleteObjects: 0.048000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.503692 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f65d981b30b6c55695b3288053f307c') in 0.038374 seconds
+  Import took 0.040848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.513069 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f65d981b30b6c55695b3288053f307c') in 0.016712 seconds
+  Import took 0.019056 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000725 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1981.
+Total: 3.258000 ms (FindLiveObjects: 0.218600 ms CreateObjectMapping: 0.073900 ms MarkObjects: 2.889300 ms  DeleteObjects: 0.074300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.252919 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afacb8d66bc1485289c980afad056e02') in 0.043647 seconds
+  Import took 0.046275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.139480 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f47072fc77332c23482604ea339804d') in 0.011883 seconds
+  Import took 0.014769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008617 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f47072fc77332c23482604ea339804d') in 0.006989 seconds
+  Import took 0.009898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.225888 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44934badd1884c9c298620229369836') in 0.012058 seconds
+  Import took 0.014714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005979 seconds.
+  path: Assets/Fighter/FighterIdle.fbx
+  artifactKey: Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fighter/FighterIdle.fbx using Guid(befdb2d1370f2184588ea45a296c598a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44934badd1884c9c298620229369836') in 0.007448 seconds
+  Import took 0.010762 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001159 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.2 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 2.273600 ms (FindLiveObjects: 0.410900 ms CreateObjectMapping: 0.075900 ms MarkObjects: 1.717900 ms  DeleteObjects: 0.065800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
